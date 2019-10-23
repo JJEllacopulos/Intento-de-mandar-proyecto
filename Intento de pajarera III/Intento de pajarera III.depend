@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1571777694 source:e:\mini laboratorio\2° parcial\ejercicios\librerias graficas\intento de pajarera iii\main.cpp
+	<stdio.h>
+	<allegro.h>
+	"Imagenes.h"
+	"Mapa.h"
+	"Avatar.h"
+	"Movimiento.h"
+
+1571775390 e:\mini laboratorio\2° parcial\ejercicios\librerias graficas\intento de pajarera iii\mapa.h
+
+1571775290 e:\mini laboratorio\2° parcial\ejercicios\librerias graficas\intento de pajarera iii\avatar.h
+
+1571778084 e:\mini laboratorio\2° parcial\ejercicios\librerias graficas\intento de pajarera iii\movimiento.h
+
+1571773456 e:\mini laboratorio\2° parcial\ejercicios\librerias graficas\intento de pajarera iii\imagenes.h
+
